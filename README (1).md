@@ -46,9 +46,3 @@ These allow dynamic filtering and focused insights.
 5)Easy to interpret visualizations with clear labels and titles  
 
 
-## 📬 Contact
-Made by [Raju gudisela]  
-📷 Screenshots
-Dashboard View
-![Dashboard](Dashboard.jpeg):https://github.com/Rajugudisela7075/Customers-Complaints/blob/main/Customers_complaints.jpeg
-Email: grajug2001@gmail.com
